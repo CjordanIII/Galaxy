@@ -1,0 +1,9 @@
+mkdir death_star
+touch darth_vader.txt princess_leia.text
+$ mkdir tatooine && touch tatooine/luke.txt tatooine/been_kenobi.txt
+mkdir millenium_falcon cd millenium_falcon
+touch chewbaca.txt han_solo.txt
+cd..
+mv been_kenobi.txt obi_wan.txt
+
+
